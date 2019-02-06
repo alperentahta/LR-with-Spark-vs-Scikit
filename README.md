@@ -20,8 +20,9 @@ datasize = [1MB, 10MB, 100MB, 1000MB, 10000MB]
 **log(elapsedtime)=0** | ![](plot/result.png)  |  ![](plot/result_log_datasize.png)  |
 **log(elapsedtime)=1** | ![](plot/result_log_elapsedtime.png)  |  ![](plot/result_log_elapsedtime_log_datasize.png)  |  
 
-Core: 8 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.46 sec
-Core: 7 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.48 sec
+
+Core: 8 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.46 sec  
+Core: 7 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.48 sec 
 Core: 6 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.51 sec
 Core: 5 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.47 sec
 Core: 4 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.49 sec
